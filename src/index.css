@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Square Peg", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container-fluid {
+  margin-left: -15px !important;
+  margin-right: -15px !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

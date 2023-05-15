@@ -1,0 +1,87 @@
+.employer-dashboard-container {
+  background-color: rgb(35, 35, 35);
+  height: 100vh;
+  width: 100%;
+  color: rgb(161, 161, 161);
+}
+.employer-zone-container {
+  background-color: black;
+  padding: 20px;
+  column-gap: 20px;
+}
+.employer-zone-heading {
+  font-size: 20px;
+}
+.employer-left-container {
+  padding: 40px;
+}
+
+.user-logo {
+  width: 90px;
+  height: 90px;
+  border-radius: 50px;
+}
+.employer-welcome-container {
+  color: white;
+  column-gap: 20px;
+}
+.dashboard-list-items {
+  list-style: none;
+  column-gap: 40px;
+  margin: 20px 20px 20px 0px;
+}
+.dashboard-list-items p {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.dashboard-item {
+  column-gap: 10px;
+}
+.employee-details-container {
+  background-color: rgb(227, 227, 227);
+  height: 100vh;
+  width: 100%;
+  padding: 30px;
+}
+
+.detail-items-container {
+  padding: 20px;
+  background-color: white;
+  border-radius: 30px;
+}
+.login-status-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+.notice-board-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+.notice-horizontal {
+  border: 1px solid black;
+}
+.author-name {
+  text-align: end;
+}
+.user-container {
+  background-color: white;
+  border-radius: 20px;
+}
+.user-logo-container {
+  background-image: url("https://cutewallpaper.org/21/hd-marriage-background/HD-Wedding-Backgrounds-in-2019-Wedding-background-.jpg");
+  background-position: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 30px;
+  color: white;
+  row-gap: 20px;
+  border-radius: 20px 20px 0px 0px;
+}
+.user-department-container {
+  padding: 20px;
+}
+.butt {
+  margin-left: 20px;
+}
